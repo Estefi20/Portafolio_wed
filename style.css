@@ -23,7 +23,32 @@ header {
 main
 {
 
-background-color: black;
+background-color: rgb(255, 255, 255);
 
+}
+
+.icono {
+    font-size:2rem; 
+    color: rgb(23, 11, 11);
+    background-color: rgb(183, 241, 254);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.subtitulo-habilidades {
+    margin-top: 16px;
+}
+
+
+.icono-contacto {
+    font-size: 2rem; 
+    color: black;
+    background-color: white;
+    /*        arriba derecha abajo izq 
+    padding: 0.5rem 1rem 0.5rem 1rem; */
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    border-radius: 75%;
 }
 
