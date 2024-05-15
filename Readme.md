@@ -8,8 +8,16 @@ Este portafolio es desarrollado para poner en práctica las habilidades obtenida
 
 - Tecnologías
 
-- Capturas
-[Link text Here](https://link-url-here.org)
+[Proyecto en linea](https://gentle-rolypoly-fb079f.netlify.app/)
+
+- Capturas de pantalla
+
+![Sección Yo](assets/frente.png)
+![Sección Yo](assets/proyec.png)
+![Sección Yo](assets/testi.png)
+![Sección Yo](assets/pie.png)
+
+
 
 
 

@@ -10,7 +10,7 @@ header {
     padding-left: 0px !important;
     height: 100vh;
 
-    background-image: url('will.jpg');
+    background-image: url('assets/will.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; /* Prevent the image from repeating */
@@ -52,3 +52,6 @@ background-color: rgb(255, 255, 255);
     border-radius: 75%;
 }
 
+#iconos a {
+    padding-top: 16px;
+}
