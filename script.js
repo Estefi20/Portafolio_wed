@@ -10,7 +10,7 @@ var typewriter = new Typewriter(app, {
 
  
 
-typewriter.typeString('Estefania Estrada!')
+typewriter.typeString('Estefania Estrada')
 
     .pauseFor(1500)
 
@@ -22,7 +22,7 @@ typewriter.typeString('Estefania Estrada!')
 
     .deleteAll()
 
-    .typeString(' Una amante de la vida')
+    .typeString('Apacionada del teror')
 
     .pauseFor(1500)
 

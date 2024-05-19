@@ -9,22 +9,26 @@ El objetivo principal del proyecto fue aplicar y consolidar los conocimientos ad
  
 
 - Tecnologías
+* HTML
+* CSS
+* Javascript
+* Bootstrap 5
 
 [Proyecto en linea](https://gentle-rolypoly-fb079f.netlify.app/)
 
 - Capturas de pantalla
 
 
-- Sección de inicio.
+* Sección de inicio.
 ![Sección Yo](assets/frente.png)
 
-- Sección de proyectos.
+* Sección de proyectos.
 ![Sección Yo](assets/proyec.png)
 
-- Sección de testimonios.
+* Sección de testimonios.
 ![Sección Yo](assets/testi.png)
 
-Sección de pie de pagina.
+* Sección de pie de pagina.
 ![Sección Yo](assets/pie.png)
 
 
