@@ -36,5 +36,4 @@ El objetivo principal del proyecto fue aplicar y consolidar los conocimientos ad
 
 
 - Créditos
-
-* Agradezco al curso de Technolochicas PRO
+ Agradezco al curso de Technolochicas PRO
