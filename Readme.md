@@ -22,6 +22,9 @@ El objetivo principal del proyecto fue aplicar y consolidar los conocimientos ad
 * Sección de inicio.
 ![Sección Yo](assets/frente.png)
 
+* Sección de habilidades.
+![Sección Yo](assets/habi.png)
+
 * Sección de proyectos.
 ![Sección Yo](assets/proyec.png)
 
@@ -32,10 +35,6 @@ El objetivo principal del proyecto fue aplicar y consolidar los conocimientos ad
 ![Sección Yo](assets/pie.png)
 
 
-
-
-
-
-
-
 - Créditos
+
+* Agradezco al curso de Technolochicas PRO

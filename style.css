@@ -1,6 +1,6 @@
 #navbarNav a{
 
-    color:rgb(0, 24, 118);
+    color:rgb(15, 0, 43);
 
 }
 
@@ -60,26 +60,26 @@ background-color: rgb(255, 255, 255);
 .animated-border {
     border: 5px solid transparent;
     position: relative;
-    animation: borderAnimation 4s infinite alternate;
+    animation: borderAnimation 3s infinite alternate;
 }
 
 @keyframes borderAnimation {
     20% {
-        border-top-color: rgb(35, 109, 43);
+        border-top-color: rgb(0, 255, 26);
         border-right-color: transparent;
         border-bottom-color: transparent;
         border-left-color: transparent;
     }
     30% {
         border-top-color: transparent;
-        border-right-color: palevioletred;
+        border-right-color: rgb(255, 247, 0);
         border-bottom-color: transparent;
         border-left-color: transparent;
     }
     50% {
         border-top-color: transparent;
         border-right-color: transparent;
-        border-bottom-color: rgb(9, 49, 227);
+        border-bottom-color: rgb(255, 68, 0);
         border-left-color: transparent;
     }
     75% {
